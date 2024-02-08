@@ -1,0 +1,304 @@
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onPreview started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): stackoverflow.com:443
+DEBUG:urllib3.connectionpool:https://stackoverflow.com:443 "GET /questions/59702757/wxpython-label-placement-on-wx-textctrl-text-inputs HTTP/1.1" 200 None
+DEBUG:root:setPreview started
+DEBUG:root:setPreview: text too long
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onPreview started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): docs.python.org:443
+DEBUG:urllib3.connectionpool:https://docs.python.org:443 "GET /3/howto/logging.html HTTP/1.1" 200 23941
+DEBUG:root:setPreview started
+DEBUG:root:setPreview: text too long
+DEBUG:root:onPreview started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): docs.python.org:443
+DEBUG:urllib3.connectionpool:https://docs.python.org:443 "GET /3/howto/logging.html HTTP/1.1" 200 23941
+DEBUG:root:getInnerHTML started
+DEBUG:root:setPreview started
+DEBUG:root:setPreview: text too long
+DEBUG:root:onPreview started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): docs.python.org:443
+DEBUG:urllib3.connectionpool:https://docs.python.org:443 "GET /3/howto/logging.html HTTP/1.1" 200 23941
+DEBUG:root:getElementsWithTag started
+DEBUG:root:extractAttributes started
+DEBUG:root:setPreview started
+DEBUG:root:setPreview: text too long
+DEBUG:root:onPreview started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): docs.python.org:443
+DEBUG:urllib3.connectionpool:https://docs.python.org:443 "GET /3/howto/logging.html HTTP/1.1" 200 23941
+DEBUG:root:getElementsWithTag started
+DEBUG:root:extractAttributes started
+DEBUG:root:setPreview started
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onPreview started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.crummy.com:443
+DEBUG:urllib3.connectionpool:https://www.crummy.com:443 "GET /software/BeautifulSoup/bs4/doc/ HTTP/1.1" 200 48424
+DEBUG:root:setPreview started
+DEBUG:root:setPreview: text too long
+DEBUG:root:onPreview started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.crummy.com:443
+DEBUG:urllib3.connectionpool:https://www.crummy.com:443 "GET /software/BeautifulSoup/bs4/doc/ HTTP/1.1" 200 48424
+DEBUG:root:getHTMLText started
+DEBUG:root:setPreview started
+DEBUG:root:setPreview: text too long
+DEBUG:root:onPreview started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.crummy.com:443
+DEBUG:urllib3.connectionpool:https://www.crummy.com:443 "GET /software/BeautifulSoup/bs4/doc/ HTTP/1.1" 200 48424
+DEBUG:root:getElementsWithTag started
+DEBUG:root:extractAttributes started
+DEBUG:root:setPreview started
+DEBUG:root:setPreview: text too long
+DEBUG:root:onPreview started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.crummy.com:443
+DEBUG:urllib3.connectionpool:https://www.crummy.com:443 "GET /software/BeautifulSoup/bs4/doc/ HTTP/1.1" 200 48424
+DEBUG:root:getElementsWithTag started
+DEBUG:root:extractAttributes started
+DEBUG:root:setPreview started
+DEBUG:root:setPreview: text too long
+DEBUG:root:onPreview started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.crummy.com:443
+DEBUG:urllib3.connectionpool:https://www.crummy.com:443 "GET /software/BeautifulSoup/bs4/doc/ HTTP/1.1" 200 48424
+DEBUG:root:getElementsWithTag started
+DEBUG:root:extractAttributes started
+DEBUG:root:setPreview started
+DEBUG:root:onConfirm started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.crummy.com:443
+DEBUG:urllib3.connectionpool:https://www.crummy.com:443 "GET /software/BeautifulSoup/bs4/doc/ HTTP/1.1" 200 48424
+DEBUG:root:getElementsWithTag started
+DEBUG:root:extractAttributes started
+DEBUG:root:createFile started
+DEBUG:root:onPreview started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.crummy.com:443
+DEBUG:urllib3.connectionpool:https://www.crummy.com:443 "GET /software/BeautifulSoup/bs4/doc/ HTTP/1.1" 200 48424
+DEBUG:root:setPreview started
+DEBUG:root:setPreview: text too long
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onConfirm started
+DEBUG:root:setPreview started
+DEBUG:root:onConfirm started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): tuwel.tuwien.ac.at:443
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /course/view.php?id=60320 HTTP/1.1" 303 None
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /login/index.php HTTP/1.1" 200 None
+DEBUG:root:createFile started
+ERROR:root:Error writing to file: 'charmap' codec can't encode character '\u200e' in position 27304: character maps to <undefined>
+DEBUG:root:setPreview started
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onConfirm started
+DEBUG:root:setPreview started
+DEBUG:root:onConfirm started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): tuwel.tuwien.ac.at:443
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /course/view.php?id=60320 HTTP/1.1" 303 None
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /login/index.php HTTP/1.1" 200 None
+DEBUG:root:createFile started
+DEBUG:root:onPreview started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): tuwel.tuwien.ac.at:443
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /course/view.php?id=60320 HTTP/1.1" 303 None
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /login/index.php HTTP/1.1" 200 None
+DEBUG:root:setPreview started
+DEBUG:root:setPreview: text too long
+DEBUG:root:onConfirm started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): tuwel.tuwien.ac.at:443
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /course/view.php?id=60320 HTTP/1.1" 303 None
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /login/index.php HTTP/1.1" 200 None
+DEBUG:root:createFile started
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onPreview started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): tuwel.tuwien.ac.at:443
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /course/view.php?id=60320 HTTP/1.1" 303 None
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /login/index.php HTTP/1.1" 200 None
+DEBUG:root:setPreview started
+DEBUG:root:setPreview: text too long
+DEBUG:root:onConfirm started
+DEBUG:root:setPreview started
+DEBUG:root:onConfirm started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): tuwel.tuwien.ac.at:443
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /course/view.php?id=60320 HTTP/1.1" 303 None
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /login/index.php HTTP/1.1" 200 None
+DEBUG:root:createFile started
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onPreview started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): tuwel.tuwien.ac.at:443
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /course/view.php?id=60320 HTTP/1.1" 303 None
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /login/index.php HTTP/1.1" 200 None
+DEBUG:root:setPreview started
+DEBUG:root:setPreview: text too long
+DEBUG:root:onConfirm started
+DEBUG:root:setPreview started
+DEBUG:root:onConfirm started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): tuwel.tuwien.ac.at:443
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /course/view.php?id=60320 HTTP/1.1" 303 None
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /login/index.php HTTP/1.1" 200 None
+DEBUG:root:createFile started
+ERROR:root:Error writing to file: 'charmap' codec can't encode character '\u200e' in position 27304: character maps to <undefined>
+DEBUG:root:setPreview started
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onConfirm started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): tuwel.tuwien.ac.at:443
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /course/view.php?id=60320 HTTP/1.1" 303 None
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /login/index.php HTTP/1.1" 200 None
+DEBUG:root:createFile started
+ERROR:root:Error writing to file: 'charmap' codec can't encode character '\u200e' in position 27304: character maps to <undefined>
+DEBUG:root:setPreview started
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onConfirm started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): tuwel.tuwien.ac.at:443
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /course/view.php?id=60320 HTTP/1.1" 303 None
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /login/index.php HTTP/1.1" 200 None
+DEBUG:root:createFile started
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onConfirm started
+DEBUG:root:setPreview started
+DEBUG:root:onConfirm started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): tuwel.tuwien.ac.at:443
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /course/view.php?id=60320 HTTP/1.1" 303 None
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /login/index.php HTTP/1.1" 200 None
+DEBUG:root:createFile started
+ERROR:root:Error writing to file: 'charmap' codec can't encode character '\u200e' in position 27304: character maps to <undefined>
+DEBUG:root:setPreview started
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onConfirm started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): tuwel.tuwien.ac.at:443
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /course/view.php?id=60320 HTTP/1.1" 303 None
+DEBUG:urllib3.connectionpool:https://tuwel.tuwien.ac.at:443 "GET /login/index.php HTTP/1.1" 200 None
+DEBUG:root:createFile started
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onConfirm started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): de.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://de.wikipedia.org:443 "GET /wiki/Zuchthaus HTTP/1.1" 200 16710
+DEBUG:root:createFile started
+ERROR:root:Error writing to file: 'charmap' codec can't encode character '\u2191' in position 33670: character maps to <undefined>
+DEBUG:root:setPreview started
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onConfirm started
+DEBUG:root:setPreview started
+DEBUG:root:onConfirm started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): de.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://de.wikipedia.org:443 "GET /wiki/Zuchthaus HTTP/1.1" 200 16710
+DEBUG:root:createFile started
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onConfirm started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): de.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://de.wikipedia.org:443 "GET /wiki/Zuchthaus HTTP/1.1" 200 16710
+DEBUG:root:createFile started
+INFO:root:Started
+DEBUG:root:UIManager started
+DEBUG:root:createMainFrame started
+DEBUG:root:createLeftPanel started
+DEBUG:root:createRightPanel started
+DEBUG:root:onPreview started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): de.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://de.wikipedia.org:443 "GET /wiki/Wikipedia:Hauptseite HTTP/1.1" 200 18082
+DEBUG:root:setPreview started
+DEBUG:root:setPreview: text too long
+DEBUG:root:onPreview started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): de.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://de.wikipedia.org:443 "GET /wiki/Wikipedia:Hauptseite HTTP/1.1" 200 18082
+DEBUG:root:getHTMLText started
+DEBUG:root:setPreview started
+DEBUG:root:onPreview started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): de.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://de.wikipedia.org:443 "GET /wiki/Wikipedia:Hauptseite HTTP/1.1" 200 18082
+DEBUG:root:getElementsWithTag started
+DEBUG:root:extractAttributes started
+DEBUG:root:setPreview started
+DEBUG:root:setPreview: text too long
+DEBUG:root:onPreview started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): de.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://de.wikipedia.org:443 "GET /wiki/Wikipedia:Hauptseite HTTP/1.1" 200 18082
+DEBUG:root:getElementsWithTag started
+DEBUG:root:extractAttributes started
+DEBUG:root:setPreview started
+DEBUG:root:onConfirm started
+DEBUG:root:getHTML started
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): de.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://de.wikipedia.org:443 "GET /wiki/Wikipedia:Hauptseite HTTP/1.1" 200 18082
+DEBUG:root:getElementsWithTag started
+DEBUG:root:extractAttributes started
+DEBUG:root:createFile started
